@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Third-party executables (obtain from official distributions)
+vina
+vina.exe
+
+# Generated docking/preparation results
+log/
+output/
+pdbqt/
+_prepared_sdf/
+failed/
+docking_ranking.csv
+docking_summary.csv
+failed_ligands.txt
+docking_parameters.txt
+ligand_preparation_summary.csv
+ligand_preparation.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use MultiDock1.0 in your research, please cite this software release and AutoDock Vina."
+title: "MultiDock1.0"
+type: software
+version: 1.0.0
+authors:
+  - family-names: "Nguyen"
+    given-names: "Duc Tri Thuc"
+    affiliation: "Faculty of Pharmacy, Ton Duc Thang University"
+abstract: >-
+  MultiDock1.0 is a graphical research workflow for automated ligand
+  preparation, batch molecular docking using AutoDock Vina, docking-score
+  extraction, ranking, and result management for medicinal chemistry and
+  computer-aided drug discovery research.
+keywords:
+  - molecular docking
+  - virtual screening
+  - AutoDock Vina
+  - medicinal chemistry
+  - computer-aided drug discovery
+license: MIT
