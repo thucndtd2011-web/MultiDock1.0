@@ -104,7 +104,7 @@ If you use MultiDock1.0 in published research, please cite the archived MultiDoc
 Nguyen Duc Tri Thuc  
 Faculty of Pharmacy, Ton Duc Thang University  
 
-A DOI can be added here after the official repository release is archived (for example, through Zenodo).
+DOI: https://doi.org/10.5281/zenodo.22798752
 
 ## Third-party software
 
